@@ -1,0 +1,68 @@
+.hero__list{
+    position: relative;
+    margin: 50px auto;
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    
+}
+
+ul {
+    list-style: none;
+    background-color: gray;
+    max-width: 600px;
+    border-radius: 12px;
+    margin: 10px auto;
+    padding: 1em;
+}
+
+li {
+    position: relative;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    width: 100%;
+    background-color: blue;
+    color: white;
+    padding: 20px 20px;
+    border-radius: 12px;
+    margin: 25px 0;
+}
+
+span {
+    position: absolute;
+    right: 10px;
+    cursor: pointer;
+}
+
+h3 {
+    padding: 0 20px 0 0;
+}
+
+img {
+    border: 5px solid white;
+    border-radius: 100%;
+}
+
+.green {
+    background-color: green;
+}
+
+.assassin {
+    background-color: red;
+}
+
+.marksman {
+    background-color: yellow;
+    color: black;
+}
+
+.tank {
+    background-color: green;
+}
+
+.mage {
+    background-color:  blueviolet;
+}
+
+

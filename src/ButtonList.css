@@ -1,0 +1,19 @@
+.btns__list {
+    
+    position: fixed;
+    top: 10%;
+    right: 5%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    border-left: 3px solid red;
+    padding: 1em;
+    gap: 10px;
+}
+
+.select__role {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
